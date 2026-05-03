@@ -27,7 +27,7 @@ const Hero = () => {
       {/* 3. Pill Shape */}
       <div className="absolute bottom-12 left-1/2 transform -translate-x-1/2 w-32 h-6 md:w-48 md:h-8 border-4 border-ink bg-paper shadow-brutal rounded-full pointer-events-none hidden sm:block z-0"></div>
 
-      <div className="max-w-7xl mx-auto w-full mt-24 md:mt-32 relative z-10">
+      <div className="max-w-7xl mx-auto w-full mt-12 md:mt-16 relative z-10">
         
         <p className="text-lg md:text-2xl font-bold  tracking-widest mb-2 md:mb-4 text-ink">Haloo, saya</p>
         
